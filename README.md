@@ -7,7 +7,7 @@ pkg install git
 
 pkg install python3
 
-git https://github.com/ABIRHOSSAIN10/IP-ADDRESS-INFORMATION
+git clone https://github.com/ABIRHOSSAIN10/IP-ADDRESS-INFORMATION
 
 cd IP-ADDRESS-INFORMATION
 
